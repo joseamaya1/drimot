@@ -27,8 +27,8 @@ static constexpr auto STATUS_SERVER_DEVELOPERS = "DreamOT Staff and The Forgotte
 static constexpr auto GIT_REPO = "private";
 
 static constexpr auto CLIENT_VERSION_MIN = 1100;
-static constexpr auto CLIENT_VERSION_MAX = 1172;
-static constexpr auto CLIENT_VERSION_STR = "11.72";
+static constexpr auto CLIENT_VERSION_MAX = 1175;
+static constexpr auto CLIENT_VERSION_STR = "11.75";
 
 static constexpr auto AUTHENTICATOR_DIGITS = 6U;
 static constexpr auto AUTHENTICATOR_PERIOD = 30U;
